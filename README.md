@@ -7,6 +7,8 @@
 
 This Power BI dashboard provides a comprehensive analysis of the **Indian Premier League (IPL)** seasons from **2008 to 2025**. It enables users to explore season-by-season statistics including winners, top performers, batting/bowling leaders, and team standings — all through an interactive, visually rich single-page report.
 
+<img width="3200" height="1794" alt="Ipl dash board_page-0001" src="https://github.com/user-attachments/assets/780e5004-5dda-49f3-8492-17eb5386cd24" />
+
 ---
 
 ## 📊 Dashboard Sections
